@@ -79,6 +79,7 @@ After confirming a booking, the system automatically generates a **flight ticket
 - Flight Date
 - Seat & Class
 - Barcode
+- QR Code
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
